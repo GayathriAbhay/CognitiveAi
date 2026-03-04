@@ -1,0 +1,13 @@
+{
+  "name": "cognitive-ai-assistant",
+  "version": "1.0.0",
+  "description": "Cognitive AI Assistant for Neurodivergent Students",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
